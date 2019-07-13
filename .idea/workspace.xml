@@ -1,0 +1,1770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="administratorSystem:war" />
+      <artifact name="administratorSystem:war" />
+      <artifact name="administratorSystem:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7dfa34b-4031-4f7d-b753-fb854aff5d83" name="Default" comment="第一次提交">
+      <change afterPath="$PROJECT_DIR$/.idea/administratorSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/administratorSystem_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/administratorSystem_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_0_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thetransactioncompany_cors_filter_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thetransactioncompany_java_property_utils_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_beta_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_platform_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_8_1_15_v20140411.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_8_1_15_v20140411.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_8_1_15_v20140411.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_websocket_8_1_15_v20140411.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20080701.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_android_driver_2_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_iphone_driver_2_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webbitserver_webbit_0_4_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__us_codecraft_webmagic_core_0_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__us_codecraft_webmagic_extension_0_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__us_codecraft_xsoup_0_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSMWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aop-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aspects-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-support-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-core-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-expression-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jdbc-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jms-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-messaging-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-orm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-oxm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-test-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-tx-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/controller/InStockController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/controller/OutSaleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/dao/InStockDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/dao/OutSaleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/entity/InStock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/entity/OutSale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/filter/CrossFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/filter/CrossInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/service/InStockService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/service/InStockServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/service/OutSaleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/service/OutSaleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/com/org/until/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/mapping/InStockMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/mapping/OutSaleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/mapping/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/classes/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/assertj-core-1.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/cglib-nodep-2.1_3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/commons-codec-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/commons-dbcp-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/commons-exec-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/commons-lang3-3.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/commons-pool-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/commons-pool2-2.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/cors-filter-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/cssparser-0.9.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/fastjson-1.1.41.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/guava-14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/htmlunit-2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/htmlunit-core-js-2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/httpclient-4.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/httpcore-4.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/httpmime-4.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/jackson-annotations-2.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/jackson-core-2.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/jackson-core-asl-1.9.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/jackson-databind-2.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/java-property-utils-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/jedis-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/jetty-http-8.1.15.v20140411.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/jetty-io-8.1.15.v20140411.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/jetty-util-8.1.15.v20140411.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/jetty-websocket-8.1.15.v20140411.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/jna-3.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/json-20080701.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/json-path-0.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/json-smart-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/jsoup-1.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/junit-4.13-beta-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/mybatis-3.2.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/nekohtml-1.9.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/netty-3.5.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/platform-3.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/sac-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/selenium-android-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/selenium-api-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/selenium-chrome-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/selenium-firefox-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/selenium-htmlunit-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/selenium-ie-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/selenium-iphone-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/selenium-java-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/selenium-remote-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/selenium-safari-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/selenium-support-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/serializer-2.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/slf4j-api-1.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/slf4j-log4j12-1.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/spring-aop-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/spring-beans-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/spring-context-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/spring-context-support-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/spring-core-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/spring-expression-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/spring-jdbc-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/spring-test-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/spring-tx-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/spring-web-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/spring-webmvc-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/webbit-0.4.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/webmagic-core-0.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/webmagic-extension-0.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/xalan-2.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/xercesImpl-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/xml-apis-1.4.01.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/lib/xsoup-0.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSMWork_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/controller/InStockController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/controller/OutSaleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/dao/InStockDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/dao/OutSaleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/entity/InStock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/entity/OutSale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/filter/CrossFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/filter/CrossInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/service/InStockService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/service/InStockServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/service/OutSaleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/service/OutSaleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/com/org/until/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/mapping/InStockMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/mapping/OutSaleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/mapping/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/classes/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/views/Inventory_check.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/views/Out_of_stock.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/views/Sale.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/views/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/views/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/views/financial_statements.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/bootstrap-table-locale-all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/bootstrap-table-locale-all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/bootstrap-table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/bootstrap-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/bootstrap-table.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/bootstrap-table.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/accent-neutralise/bootstrap-table-accent-neutralise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/accent-neutralise/bootstrap-table-accent-neutralise.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/addrbar/bootstrap-table-addrbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/addrbar/bootstrap-table-addrbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/auto-refresh/bootstrap-table-auto-refresh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/auto-refresh/bootstrap-table-auto-refresh.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/cookie/bootstrap-table-cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/cookie/bootstrap-table-cookie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/copy-rows/bootstrap-table-copy-rows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/copy-rows/bootstrap-table-copy-rows.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/defer-url/bootstrap-table-defer-url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/defer-url/bootstrap-table-defer-url.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/editable/bootstrap-table-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/editable/bootstrap-table-editable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/export/bootstrap-table-export.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/export/bootstrap-table-export.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/filter-control/bootstrap-table-filter-control.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/filter-control/bootstrap-table-filter-control.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/filter-control/bootstrap-table-filter-control.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/filter-control/bootstrap-table-filter-control.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/fixed-columns/bootstrap-table-fixed-columns.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/fixed-columns/bootstrap-table-fixed-columns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/fixed-columns/bootstrap-table-fixed-columns.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/fixed-columns/bootstrap-table-fixed-columns.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/group-by-v2/bootstrap-table-group-by.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/group-by-v2/bootstrap-table-group-by.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/group-by-v2/bootstrap-table-group-by.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/group-by-v2/bootstrap-table-group-by.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/group-by/bootstrap-table-group-by.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/group-by/bootstrap-table-group-by.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/group-by/bootstrap-table-group-by.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/group-by/bootstrap-table-group-by.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/i18n-enhance/bootstrap-table-i18n-enhance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/i18n-enhance/bootstrap-table-i18n-enhance.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/key-events/bootstrap-table-key-events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/key-events/bootstrap-table-key-events.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/mobile/bootstrap-table-mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/mobile/bootstrap-table-mobile.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/multi-column-toggle/bootstrap-table-multi-toggle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/multi-column-toggle/bootstrap-table-multi-toggle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/multiple-search/bootstrap-table-multiple-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/multiple-search/bootstrap-table-multiple-search.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/natural-sorting/bootstrap-table-natural-sorting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/natural-sorting/bootstrap-table-natural-sorting.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/page-jump-to/bootstrap-table-page-jump-to.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/page-jump-to/bootstrap-table-page-jump-to.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/page-jump-to/bootstrap-table-page-jump-to.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/page-jump-to/bootstrap-table-page-jump-to.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/pipeline/bootstrap-table-pipeline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/pipeline/bootstrap-table-pipeline.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/print/bootstrap-table-print.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/print/bootstrap-table-print.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/resizable/bootstrap-table-resizable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/resizable/bootstrap-table-resizable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/select2-filter/bootstrap-table-select2-filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/select2-filter/bootstrap-table-select2-filter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/sticky-header/bootstrap-table-sticky-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/sticky-header/bootstrap-table-sticky-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/sticky-header/bootstrap-table-sticky-header.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/sticky-header/bootstrap-table-sticky-header.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/toolbar/bootstrap-table-toolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/toolbar/bootstrap-table-toolbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/tree-column/bootstrap-table-tree-column.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/tree-column/bootstrap-table-tree-column.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/tree-column/bootstrap-table-tree-column.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/tree-column/bootstrap-table-tree-column.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/treegrid/bootstrap-table-treegrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/extensions/treegrid/bootstrap-table-treegrid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/bulma/bootstrap-table-bulma.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/bulma/bootstrap-table-bulma.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/bulma/bootstrap-table-bulma.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/bulma/bootstrap-table-bulma.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/foundation/bootstrap-table-foundation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/foundation/bootstrap-table-foundation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/foundation/bootstrap-table-foundation.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/foundation/bootstrap-table-foundation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/materialize/bootstrap-table-materialize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/materialize/bootstrap-table-materialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/materialize/bootstrap-table-materialize.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/materialize/bootstrap-table-materialize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/semantic/bootstrap-table-semantic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/semantic/bootstrap-table-semantic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/semantic/bootstrap-table-semantic.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/dist/themes/semantic/bootstrap-table-semantic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/images/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/js/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/FileSaver/FileSaver.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/FileSaver/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/es6-promise/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/es6-promise/es6-promise.auto.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/html2canvas/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/html2canvas/html2canvas.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/js-xlsx/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/js-xlsx/xlsx.core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/jsPDF-AutoTable/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/jsPDF-AutoTable/jspdf.plugin.autotable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/jsPDF/MIT-LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/jsPDF/jspdf.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/pdfmake/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/pdfmake/mirza_fonts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/pdfmake/pdfmake.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/libs/pdfmake/vfs_fonts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/tableExport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/tableExport.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/tools/minify2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/administratorSystem_Web_exploded/tableExport/tools/minify3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/controller/InStockController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/controller/OutSaleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/dao/InStockDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/dao/OutSaleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/entity/InStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/entity/OutSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/filter/CrossFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/filter/CrossInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/service/InStockService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/service/InStockServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/service/OutSaleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/service/OutSaleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/until/PageBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapping/InStockMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapping/OutSaleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapping/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Inventory_check.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Out_of_stock.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Sale.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/financial_statements.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_into.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/bootstrap-table-locale-all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/bootstrap-table-locale-all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/bootstrap-table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/bootstrap-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/bootstrap-table.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/bootstrap-table.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/accent-neutralise/bootstrap-table-accent-neutralise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/accent-neutralise/bootstrap-table-accent-neutralise.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/addrbar/bootstrap-table-addrbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/addrbar/bootstrap-table-addrbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/auto-refresh/bootstrap-table-auto-refresh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/auto-refresh/bootstrap-table-auto-refresh.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/cookie/bootstrap-table-cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/cookie/bootstrap-table-cookie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/copy-rows/bootstrap-table-copy-rows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/copy-rows/bootstrap-table-copy-rows.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/defer-url/bootstrap-table-defer-url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/defer-url/bootstrap-table-defer-url.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/editable/bootstrap-table-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/editable/bootstrap-table-editable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/export/bootstrap-table-export.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/export/bootstrap-table-export.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/filter-control/bootstrap-table-filter-control.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/filter-control/bootstrap-table-filter-control.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/filter-control/bootstrap-table-filter-control.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/filter-control/bootstrap-table-filter-control.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/fixed-columns/bootstrap-table-fixed-columns.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/fixed-columns/bootstrap-table-fixed-columns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/fixed-columns/bootstrap-table-fixed-columns.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/fixed-columns/bootstrap-table-fixed-columns.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/group-by-v2/bootstrap-table-group-by.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/group-by-v2/bootstrap-table-group-by.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/group-by-v2/bootstrap-table-group-by.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/group-by-v2/bootstrap-table-group-by.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/group-by/bootstrap-table-group-by.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/group-by/bootstrap-table-group-by.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/group-by/bootstrap-table-group-by.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/group-by/bootstrap-table-group-by.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/i18n-enhance/bootstrap-table-i18n-enhance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/i18n-enhance/bootstrap-table-i18n-enhance.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/key-events/bootstrap-table-key-events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/key-events/bootstrap-table-key-events.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/mobile/bootstrap-table-mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/mobile/bootstrap-table-mobile.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/multi-column-toggle/bootstrap-table-multi-toggle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/multi-column-toggle/bootstrap-table-multi-toggle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/multiple-search/bootstrap-table-multiple-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/multiple-search/bootstrap-table-multiple-search.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/natural-sorting/bootstrap-table-natural-sorting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/natural-sorting/bootstrap-table-natural-sorting.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/page-jump-to/bootstrap-table-page-jump-to.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/page-jump-to/bootstrap-table-page-jump-to.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/page-jump-to/bootstrap-table-page-jump-to.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/page-jump-to/bootstrap-table-page-jump-to.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/pipeline/bootstrap-table-pipeline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/pipeline/bootstrap-table-pipeline.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/print/bootstrap-table-print.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/print/bootstrap-table-print.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/resizable/bootstrap-table-resizable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/resizable/bootstrap-table-resizable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/select2-filter/bootstrap-table-select2-filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/select2-filter/bootstrap-table-select2-filter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/sticky-header/bootstrap-table-sticky-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/sticky-header/bootstrap-table-sticky-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/sticky-header/bootstrap-table-sticky-header.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/sticky-header/bootstrap-table-sticky-header.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/toolbar/bootstrap-table-toolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/toolbar/bootstrap-table-toolbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/tree-column/bootstrap-table-tree-column.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/tree-column/bootstrap-table-tree-column.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/tree-column/bootstrap-table-tree-column.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/tree-column/bootstrap-table-tree-column.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/treegrid/bootstrap-table-treegrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/extensions/treegrid/bootstrap-table-treegrid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/bulma/bootstrap-table-bulma.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/bulma/bootstrap-table-bulma.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/bulma/bootstrap-table-bulma.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/bulma/bootstrap-table-bulma.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/foundation/bootstrap-table-foundation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/foundation/bootstrap-table-foundation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/foundation/bootstrap-table-foundation.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/foundation/bootstrap-table-foundation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/materialize/bootstrap-table-materialize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/materialize/bootstrap-table-materialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/materialize/bootstrap-table-materialize.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/materialize/bootstrap-table-materialize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/semantic/bootstrap-table-semantic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/semantic/bootstrap-table-semantic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/semantic/bootstrap-table-semantic.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dist/themes/semantic/bootstrap-table-semantic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/FileSaver/FileSaver.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/FileSaver/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/es6-promise/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/es6-promise/es6-promise.auto.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/html2canvas/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/html2canvas/html2canvas.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/js-xlsx/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/js-xlsx/xlsx.core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/jsPDF-AutoTable/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/jsPDF-AutoTable/jspdf.plugin.autotable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/jsPDF/MIT-LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/jsPDF/jspdf.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/pdfmake/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/pdfmake/mirza_fonts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/pdfmake/pdfmake.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/libs/pdfmake/vfs_fonts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/tableExport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/tableExport.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/tools/minify2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tableExport/tools/minify3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/controller/InStockController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/controller/OutSaleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/dao/InStockDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/dao/OutSaleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/entity/InStock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/entity/OutSale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/filter/CrossFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/filter/CrossInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/service/InStockService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/service/InStockServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/service/OutSaleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/service/OutSaleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/com/org/until/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/mapping/InStockMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/mapping/OutSaleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/mapping/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/classes/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/assertj-core-1.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/cglib-nodep-2.1_3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/commons-codec-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/commons-dbcp-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/commons-exec-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/commons-lang3-3.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/commons-pool-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/commons-pool2-2.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/cors-filter-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/cssparser-0.9.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/fastjson-1.1.41.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/gson-2.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/guava-14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/htmlunit-2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/htmlunit-core-js-2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/httpclient-4.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/httpcore-4.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/httpmime-4.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/jackson-annotations-2.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/jackson-core-2.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/jackson-core-asl-1.9.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/jackson-databind-2.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/java-property-utils-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/jedis-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/jetty-http-8.1.15.v20140411.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/jetty-io-8.1.15.v20140411.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/jetty-util-8.1.15.v20140411.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/jetty-websocket-8.1.15.v20140411.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/jna-3.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/json-20080701.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/json-path-0.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/json-smart-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/jsoup-1.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/junit-4.13-beta-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/mybatis-3.2.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/mysql-connector-java-5.1.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/nekohtml-1.9.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/netty-3.5.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/platform-3.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/sac-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/selenium-android-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/selenium-api-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/selenium-chrome-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/selenium-firefox-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/selenium-htmlunit-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/selenium-ie-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/selenium-iphone-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/selenium-java-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/selenium-remote-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/selenium-safari-driver-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/selenium-support-2.33.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/serializer-2.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/slf4j-api-1.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/slf4j-log4j12-1.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/spring-aop-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/spring-beans-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/spring-context-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/spring-context-support-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/spring-core-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/spring-expression-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/spring-jdbc-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/spring-test-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/spring-tx-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/spring-web-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/spring-webmvc-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/webbit-0.4.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/webmagic-core-0.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/webmagic-extension-0.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/xalan-2.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/xercesImpl-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/xml-apis-1.4.01.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/lib/xsoup-0.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/views/Inventory_check.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/views/Out_of_stock.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/views/Sale.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/views/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/views/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/views/financial_statements.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/views/update_into.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/bootstrap-3.3.7-dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/bootstrap-table-locale-all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/bootstrap-table-locale-all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/bootstrap-table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/bootstrap-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/bootstrap-table.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/bootstrap-table.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/accent-neutralise/bootstrap-table-accent-neutralise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/accent-neutralise/bootstrap-table-accent-neutralise.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/addrbar/bootstrap-table-addrbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/addrbar/bootstrap-table-addrbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/auto-refresh/bootstrap-table-auto-refresh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/auto-refresh/bootstrap-table-auto-refresh.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/cookie/bootstrap-table-cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/cookie/bootstrap-table-cookie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/copy-rows/bootstrap-table-copy-rows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/copy-rows/bootstrap-table-copy-rows.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/defer-url/bootstrap-table-defer-url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/defer-url/bootstrap-table-defer-url.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/editable/bootstrap-table-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/editable/bootstrap-table-editable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/export/bootstrap-table-export.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/export/bootstrap-table-export.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/filter-control/bootstrap-table-filter-control.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/filter-control/bootstrap-table-filter-control.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/filter-control/bootstrap-table-filter-control.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/filter-control/bootstrap-table-filter-control.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/fixed-columns/bootstrap-table-fixed-columns.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/fixed-columns/bootstrap-table-fixed-columns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/fixed-columns/bootstrap-table-fixed-columns.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/fixed-columns/bootstrap-table-fixed-columns.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/group-by-v2/bootstrap-table-group-by.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/group-by-v2/bootstrap-table-group-by.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/group-by-v2/bootstrap-table-group-by.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/group-by-v2/bootstrap-table-group-by.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/group-by/bootstrap-table-group-by.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/group-by/bootstrap-table-group-by.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/group-by/bootstrap-table-group-by.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/group-by/bootstrap-table-group-by.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/i18n-enhance/bootstrap-table-i18n-enhance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/i18n-enhance/bootstrap-table-i18n-enhance.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/key-events/bootstrap-table-key-events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/key-events/bootstrap-table-key-events.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/mobile/bootstrap-table-mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/mobile/bootstrap-table-mobile.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/multi-column-toggle/bootstrap-table-multi-toggle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/multi-column-toggle/bootstrap-table-multi-toggle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/multiple-search/bootstrap-table-multiple-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/multiple-search/bootstrap-table-multiple-search.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/natural-sorting/bootstrap-table-natural-sorting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/natural-sorting/bootstrap-table-natural-sorting.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/page-jump-to/bootstrap-table-page-jump-to.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/page-jump-to/bootstrap-table-page-jump-to.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/page-jump-to/bootstrap-table-page-jump-to.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/page-jump-to/bootstrap-table-page-jump-to.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/pipeline/bootstrap-table-pipeline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/pipeline/bootstrap-table-pipeline.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/print/bootstrap-table-print.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/print/bootstrap-table-print.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/resizable/bootstrap-table-resizable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/resizable/bootstrap-table-resizable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/select2-filter/bootstrap-table-select2-filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/select2-filter/bootstrap-table-select2-filter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/sticky-header/bootstrap-table-sticky-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/sticky-header/bootstrap-table-sticky-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/sticky-header/bootstrap-table-sticky-header.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/sticky-header/bootstrap-table-sticky-header.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/toolbar/bootstrap-table-toolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/toolbar/bootstrap-table-toolbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/tree-column/bootstrap-table-tree-column.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/tree-column/bootstrap-table-tree-column.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/tree-column/bootstrap-table-tree-column.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/tree-column/bootstrap-table-tree-column.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/treegrid/bootstrap-table-treegrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/extensions/treegrid/bootstrap-table-treegrid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/bulma/bootstrap-table-bulma.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/bulma/bootstrap-table-bulma.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/bulma/bootstrap-table-bulma.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/bulma/bootstrap-table-bulma.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/foundation/bootstrap-table-foundation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/foundation/bootstrap-table-foundation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/foundation/bootstrap-table-foundation.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/foundation/bootstrap-table-foundation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/materialize/bootstrap-table-materialize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/materialize/bootstrap-table-materialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/materialize/bootstrap-table-materialize.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/materialize/bootstrap-table-materialize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/semantic/bootstrap-table-semantic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/semantic/bootstrap-table-semantic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/semantic/bootstrap-table-semantic.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/dist/themes/semantic/bootstrap-table-semantic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/images/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/js/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/FileSaver/FileSaver.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/FileSaver/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/es6-promise/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/es6-promise/es6-promise.auto.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/html2canvas/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/html2canvas/html2canvas.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/js-xlsx/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/js-xlsx/xlsx.core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/jsPDF-AutoTable/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/jsPDF-AutoTable/jspdf.plugin.autotable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/jsPDF/MIT-LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/jsPDF/jspdf.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/pdfmake/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/pdfmake/mirza_fonts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/pdfmake/pdfmake.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/libs/pdfmake/vfs_fonts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/tableExport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/tableExport.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/tools/minify2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/adminsystem/tableExport/tools/minify3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/controller/InStockController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/controller/OutSaleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/dao/InStockDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/dao/OutSaleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/entity/InStock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/entity/OutSale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/filter/CrossFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/filter/CrossInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/service/InStockService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/service/InStockServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/service/OutSaleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/service/OutSaleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/org/until/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapping/InStockMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapping/OutSaleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapping/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Inventory_check.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5805">
+              <caret line="215" column="22" selection-start-line="215" selection-start-column="22" selection-end-line="215" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Out_of_stock.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2646">
+              <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Sale.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="152" column="119" selection-start-line="152" selection-start-column="119" selection-end-line="152" selection-end-column="119" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/org/controller/OutSaleController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1323">
+              <caret line="67" column="9" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3915">
+              <caret line="145" column="30" selection-start-line="145" selection-start-column="30" selection-end-line="145" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/financial_statements.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2673">
+              <caret line="99" column="29" selection-start-line="97" selection-start-column="23" selection-end-line="99" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/InStockMapper.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_into.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3780">
+              <caret line="140" column="44" selection-start-line="140" selection-start-column="44" selection-end-line="140" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/org/controller/InStockController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/org/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1242">
+              <caret line="55" column="36" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>uri</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/org/filter/CrossFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/config.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/error.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapping/OutSaleMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/org/entity/OutSale.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/success.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/financial_statements.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Out_of_stock.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/org/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/org/controller/OutSaleController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_into.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Inventory_check.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/org/controller/InStockController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Sale.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="adminsysytem Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="adminsysytem Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="adminsysytem Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="until" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapping" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="administratorSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="administratorSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39999998" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\项目程序\administratorSystem\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\项目程序\administratorSystem\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="login.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.41" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/login.jsp" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="HOT_SWAP_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="administratorSystem:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="login_jsp_administratorSystem_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60270" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="administratorSystem:war" />
+          <artifact name="administratorSystem:war" />
+          <artifact name="administratorSystem:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Tomcat Server.login.jsp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7dfa34b-4031-4f7d-b753-fb854aff5d83" name="Default" comment="" />
+      <created>1557971734463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557971734463</updated>
+      <workItem from="1557971736081" duration="34000" />
+      <workItem from="1557972078278" duration="5357000" />
+      <workItem from="1557995082438" duration="505000" />
+      <workItem from="1558081968179" duration="3139000" />
+      <workItem from="1558085168703" duration="4311000" />
+      <workItem from="1558098255175" duration="786000" />
+      <workItem from="1558251154239" duration="1397000" />
+      <workItem from="1558686039101" duration="2990000" />
+      <workItem from="1558917078974" duration="45000" />
+      <workItem from="1558939461285" duration="3753000" />
+      <workItem from="1559035182071" duration="13000" />
+      <workItem from="1559039627498" duration="11000" />
+      <workItem from="1559194875388" duration="1864000" />
+      <workItem from="1561448437833" duration="473000" />
+      <workItem from="1563007479693" duration="2261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27388000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33963692" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.68576103" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Application Servers" order="10" weight="0.32943144" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32569557" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32943144" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="16" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32980332" />
+      <window_info anchor="right" id="Mybatis datasource" order="10" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/filter/CrossFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="130" column="17" selection-start-line="130" selection-start-column="17" selection-end-line="130" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-523" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/error.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/OutSaleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/dao/InStockDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/entity/OutSale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#1236#1237#0" expanded="true" />
+            <element signature="e#1273#1274#0" expanded="true" />
+            <element signature="e#1306#1307#0" expanded="true" />
+            <element signature="e#1358#1359#0" expanded="true" />
+            <element signature="e#1402#1403#0" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
+            <element signature="e#1470#1471#0" expanded="true" />
+            <element signature="e#1520#1521#0" expanded="true" />
+            <element signature="e#1562#1563#0" expanded="true" />
+            <element signature="e#1597#1598#0" expanded="true" />
+            <element signature="e#1628#1629#0" expanded="true" />
+            <element signature="e#1676#1677#0" expanded="true" />
+            <element signature="e#1716#1717#0" expanded="true" />
+            <element signature="e#1750#1751#0" expanded="true" />
+            <element signature="e#1783#1784#0" expanded="true" />
+            <element signature="e#1832#1833#0" expanded="true" />
+            <element signature="e#1876#1877#0" expanded="true" />
+            <element signature="e#1909#1910#0" expanded="true" />
+            <element signature="e#1938#1939#0" expanded="true" />
+            <element signature="e#1982#1983#0" expanded="true" />
+            <element signature="e#2018#2019#0" expanded="true" />
+            <element signature="e#2053#2054#0" expanded="true" />
+            <element signature="e#2084#2085#0" expanded="true" />
+            <element signature="e#2132#2133#0" expanded="true" />
+            <element signature="e#2172#2173#0" expanded="true" />
+            <element signature="e#2203#2204#0" expanded="true" />
+            <element signature="e#2230#2231#0" expanded="true" />
+            <element signature="e#2270#2271#0" expanded="true" />
+            <element signature="e#2302#2303#0" expanded="true" />
+            <element signature="e#2334#2335#0" expanded="true" />
+            <element signature="e#2362#2363#0" expanded="true" />
+            <element signature="e#2404#2405#0" expanded="true" />
+            <element signature="e#2438#2439#0" expanded="true" />
+            <element signature="e#2471#2472#0" expanded="true" />
+            <element signature="e#2500#2501#0" expanded="true" />
+            <element signature="e#2544#2545#0" expanded="true" />
+            <element signature="e#2580#2581#0" expanded="true" />
+            <element signature="e#2614#2615#0" expanded="true" />
+            <element signature="e#2644#2645#0" expanded="true" />
+            <element signature="e#2690#2691#0" expanded="true" />
+            <element signature="e#2728#2729#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/success.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/bootstrap-3.3.7-dist/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="85" selection-start-line="17" selection-start-column="85" selection-end-line="17" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/entity/InStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Inventory_check.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5805">
+          <caret line="215" column="22" selection-start-line="215" selection-start-column="22" selection-end-line="215" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Out_of_stock.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2646">
+          <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/controller/OutSaleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="67" column="9" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3915">
+          <caret line="145" column="30" selection-start-line="145" selection-start-column="30" selection-end-line="145" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/financial_statements.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2673">
+          <caret line="99" column="29" selection-start-line="97" selection-start-column="23" selection-end-line="99" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/InStockMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_into.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="140" column="44" selection-start-line="140" selection-start-column="44" selection-end-line="140" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/controller/InStockController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="55" column="36" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Sale.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="152" column="119" selection-start-line="152" selection-start-column="119" selection-end-line="152" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>administratorSystem:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39999998" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (administratorSystem)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39999998" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 19 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>administratorSystem</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39999998" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:2.1_3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39999998" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

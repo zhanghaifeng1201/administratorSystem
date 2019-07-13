@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.org.dao.InStockDao">
+    <!-- 先定义一个Interface，UserMapper，然后Mapper文件的namespace指向的就是这个Interface， UserInterface里定义的方法和UserMapper.xml文件中的一样,
+        然后代码里直接使用接口 -->
+    <resultMap id="BaseResultMap" type="com.org.entity.InStock">
+        <id column="id" property="id" jdbcType="INTEGER" />
+        <result column="userid" property="userid" jdbcType="INTEGER" />
+        <result column="purchase_price" property="purchase_price" jdbcType="DOUBLE" />
+        <result column="trade_price" property="trade_price" jdbcType="DOUBLE" />
+        <result column="retail_price" property="retail_price" jdbcType="DOUBLE" />
+        <result column="brand" property="brand" jdbcType="VARCHAR" />
+        <result column="item" property="item" jdbcType="VARCHAR" />
+        <result column="goods_name" property="goods_name" jdbcType="VARCHAR" />
+        <result column="model_size" property="model_size" jdbcType="VARCHAR" />
+        <result column="unit" property="unit" jdbcType="VARCHAR" />
+        <result column="number" property="number" jdbcType="DOUBLE" />
+        <result column="money" property="money" jdbcType="DOUBLE" />
+        <result column="des" property="des" jdbcType="VARCHAR" />
+        <result column="time" property="des" jdbcType="VARCHAR" />
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id, userid, purchase_price,trade_price,retail_price,brand,item,goods_name,model_size,unit,number,money, des,time
+    </sql>
+    <!--根据主键查询一条数据 -->
+    <select id="selectById" resultMap="BaseResultMap"
+            parameterType="java.lang.Integer">
+        select
+        <include refid="Base_Column_List" />
+        from bill_of_entry
+        where id = #{id,jdbcType=INTEGER}
+    </select>
+    <!-- 根据分页数据start 和size查询数据 -->
+    <select id="findByPage" resultType="com.org.entity.InStock"  resultMap="BaseResultMap">
+        select
+        <include refid="Base_Column_List" />
+        from bill_of_entry
+        <if test="start!=null and size!=null">
+            limit #{start,jdbcType=INTEGER},#{size,jdbcType=INTEGER}
+        </if>
+    </select>
+    <!-- 查询用户记录总数 -->
+    <select id="selectCount" resultType="int">
+        select count(*) from bill_of_entry
+    </select>
+    <!--查询所有数据 -->
+    <select id="selectList" resultType="com.org.entity.InStock">
+        select
+        <include refid="Base_Column_List" />
+        from bill_of_entry
+    </select>
+    <!--根据主键删除一条用户数据 -->
+    <delete id="deleteById" parameterType="java.lang.Integer">
+        delete from bill_of_entry
+        where id = #{id,jdbcType=INTEGER}
+    </delete>
+
+    <!--插入一条完整数据 -->
+    <insert id="insert" parameterType="com.org.entity.InStock">
+        insert into bill_of_entry (userid, purchase_price,trade_price,retail_price,brand,item,goods_name,model_size,unit,number,money,des,time
+        )
+        values (#{userid,jdbcType=INTEGER}, #{purchase_price,jdbcType=DOUBLE},#{trade_price,jdbcType=DOUBLE},#{retail_price,jdbcType=DOUBLE},#{brand,jdbcType=VARCHAR},#{item,jdbcType=VARCHAR},#{goods_name,jdbcType=VARCHAR},#{model_size,jdbcType=VARCHAR},#{unit,jdbcType=VARCHAR},#{number,jdbcType=DOUBLE},#{money,jdbcType=DOUBLE},#{des,jdbcType=VARCHAR},#{time,jdbcType=VARCHAR}
+        )
+    </insert>
+
+    <!--插入一条数据 ，可以不完整 -->
+    <insert id="insertOne" parameterType="com.org.entity.InStock">
+        insert into bill_of_entry
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <if test="userid != null">
+                userid,
+            </if>
+            <if test="purchase_price != null">
+                purchase_price,
+            </if>
+            <if test="trade_price != null">
+                trade_price,
+            </if>
+            <if test="retail_price != null">
+                retail_price,
+            </if>
+            <if test="brand != null">
+                brand,
+            </if>
+            <if test="item != null">
+                item,
+            </if>
+            <if test="goods_name != null">
+                goods_name,
+            </if>
+            <if test="model_size != null">
+                model_size,
+            </if>
+            <if test="unit != null">
+                unit,
+            </if>
+            <if test="number != null">
+                number,
+            </if>
+            <if test="money != null">
+                money,
+            </if>
+            <if test="des != null">
+                des,
+            </if>
+            <if test="time != null">
+                time
+            </if>
+        </trim>
+        <trim prefix="values (" suffix=")" suffixOverrides=",">
+            <if test="userid != null">
+                #{userid,jdbcType=INTEGER},
+            </if>
+            <if test="purchase_price != null">
+                #{purchase_price,jdbcType=DOUBLE},
+            </if>
+            <if test="trade_price != null">
+                #{trade_price,jdbcType=DOUBLE},
+            </if>
+            <if test="retail_price != null">
+                #{retail_price,jdbcType=DOUBLE},
+            </if>
+            <if test="brand != null">
+                #{brand,jdbcType=VARCHAR},
+            </if>
+            <if test="item != null">
+                #{item,jdbcType=VARCHAR},
+            </if>
+            <if test="goods_name != null">
+                #{goods_name,jdbcType=VARCHAR},
+            </if>
+            <if test="model_size != null">
+                #{model_size,jdbcType=VARCHAR},
+            </if>
+            <if test="unit != null">
+                #{unit,jdbcType=VARCHAR},
+            </if>
+            <if test="number != null">
+                #{number,jdbcType=DOUBLE},
+            </if>
+            <if test="money != null">
+                #{money,jdbcType=DOUBLE},
+            </if>
+            <if test="des != null">
+                #{des,jdbcType=VARCHAR},
+            </if>
+            <if test="time != null">
+                #{time,jdbcType=VARCHAR}
+            </if>
+        </trim>
+    </insert>
+
+    <!--根据主键更新一条数据，可以不完整 -->
+    <update id="updateById" parameterType="com.org.entity.InStock">
+        update bill_of_entry
+        <set>
+            <if test="userid != null">
+                userid = #{userid,jdbcType=INTEGER},
+            </if>
+            <if test="purchase_price != null">
+                purchase_price = #{purchase_price,jdbcType=DOUBLE},
+            </if>
+            <if test="trade_price != null">
+                trade_price = #{trade_price,jdbcType=DOUBLE},
+            </if>
+            <if test="retail_price != null">
+                retail_price = #{retail_price,jdbcType=DOUBLE},
+            </if>
+            <if test="brand != null">
+                brand = #{brand,jdbcType=VARCHAR},
+            </if>
+            <if test="item != null">
+                item = #{item,jdbcType=VARCHAR},
+            </if>
+            <if test="goods_name != null">
+                goods_name = #{goods_name,jdbcType=VARCHAR},
+            </if>
+            <if test="model_size != null">
+                model_size = #{model_size,jdbcType=VARCHAR},
+            </if>
+            <if test="unit != null">
+                unit = #{unit,jdbcType=VARCHAR},
+            </if>
+            <if test="number != null">
+                number = #{number,jdbcType=DOUBLE},
+            </if>
+            <if test="money != null">
+                money = #{money,jdbcType=DOUBLE},
+            </if>
+            <if test="des != null">
+                des = #{des,jdbcType=VARCHAR},
+            </if>
+            <if test="time != null">
+                time = #{des,jdbcType=VARCHAR}
+            </if>
+        </set>
+        where id = #{id,jdbcType=INTEGER}
+    </update>
+
+
+</mapper>

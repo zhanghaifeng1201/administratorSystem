@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.org.dao.UserDao">
+	<!-- 先定义一个Interface，UserMapper，然后Mapper文件的namespace指向的就是这个Interface， UserInterface里定义的方法和UserMapper.xml文件中的一样, 
+		然后代码里直接使用接口 -->
+	<resultMap id="BaseResultMap" type="com.org.entity.User">
+		<id column="id" property="id" jdbcType="INTEGER" />
+		<result column="userName" property="username" jdbcType="VARCHAR" />
+		<result column="password" property="password" jdbcType="VARCHAR" />
+		<result column="stituo" property="stituo" jdbcType="INTEGER" />
+	</resultMap>
+
+	<sql id="Base_Column_List">
+		id, userName, password,stituo
+	</sql>
+
+	<!--根据主键查询一条用户数据 -->
+	<select id="selectByPrimaryKey" resultMap="BaseResultMap"
+		parameterType="java.lang.Integer">
+		select
+		<include refid="Base_Column_List" />
+		from user
+		where id = #{id,jdbcType=INTEGER}
+	</select>
+
+	<!--用户登录 -->
+	<select id="loginByUserNameAndPassword"  resultMap="BaseResultMap" parameterType="com.org.entity.User">
+		select 
+		<include refid="Base_Column_List" />
+		 from user
+		 where 
+		 id = #{id}
+		 and password = #{password} 
+	</select>
+	<!--查询所有用户数据 -->
+	<select id="selectUserList" resultType="com.org.entity.User">
+		select
+		<include refid="Base_Column_List" />
+		from user
+	</select>
+	<!--根据主键删除一条用户数据 -->
+	<delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+		delete from user
+		where id = #{id,jdbcType=INTEGER}
+	</delete>
+
+	<!--插入一条完整用户数据 -->
+	<insert id="insert" parameterType="com.org.entity.User">
+		insert into user (id, userName, password, stituo
+		)
+		values (#{id,jdbcType=INTEGER}, #{username,jdbcType=VARCHAR},
+		#{password,jdbcType=VARCHAR},#{stituo,jdbcType=INTEGER}
+		)
+	</insert>
+
+	<!--插入一条用户数据 ，可以不完整 -->
+	<insert id="insertSelective" parameterType="com.org.entity.User">
+		insert into user
+		<trim prefix="(" suffix=")" suffixOverrides=",">
+			<if test="id != null">
+				id,
+			</if>
+			<if test="username != null">
+				userName,
+			</if>
+			<if test="password != null">
+				password,
+			</if>
+			<if test="stituo != null">
+				stituo
+			</if>
+
+		</trim>
+		<trim prefix="values (" suffix=")" suffixOverrides=",">
+			<if test="id != null">
+				#{id,jdbcType=INTEGER},
+			</if>
+			<if test="username != null">
+				#{username,jdbcType=VARCHAR},
+			</if>
+			<if test="password != null">
+				#{password,jdbcType=VARCHAR},
+			</if>
+			<if test="stituo != null">
+				#{stituo,jdbcType=INTEGER}
+			</if>
+		</trim>
+	</insert>
+
+	<!--根据主键更新一条用户数据，可以不完整 -->
+	<update id="updateByPrimaryKeySelective" parameterType="com.org.entity.User">
+		update user
+		<set>
+			<if test="username != null">
+				userName = #{username,jdbcType=VARCHAR},
+			</if>
+			<if test="password != null">
+				password = #{password,jdbcType=VARCHAR},
+			</if>
+			<if test="stituo != null">
+				stituo = #{stituo,jdbcType=INTEGER}
+			</if>
+		</set>
+		where id = #{id,jdbcType=INTEGER}
+	</update>
+
+	<!--根据主键更新一条用户数据 -->
+	<update id="updateByPrimaryKey" parameterType="com.org.entity.User">
+		update user
+		set userName = #{username,jdbcType=VARCHAR},
+		password = #{password,jdbcType=VARCHAR},
+		stituo = #{stituo,jdbcType=INTEGER}
+		where id = #{id,jdbcType=INTEGER}
+	</update>
+</mapper>

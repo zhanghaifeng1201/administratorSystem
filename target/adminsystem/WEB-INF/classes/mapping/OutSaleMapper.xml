@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.org.dao.OutSaleDao">
+    <!-- 先定义一个Interface，UserMapper，然后Mapper文件的namespace指向的就是这个Interface， UserInterface里定义的方法和UserMapper.xml文件中的一样,
+        然后代码里直接使用接口 -->
+    <resultMap id="BaseResultMap" type="com.org.entity.OutSale">
+        <id column="id" property="id" jdbcType="INTEGER" />
+        <result column="oldid" property="oldid" jdbcType="INTEGER" />
+        <result column="username" property="username" jdbcType="VARCHAR" />
+        <result column="out_name" property="out_name" jdbcType="VARCHAR" />
+        <result column="out_brand" property="out_brand" jdbcType="VARCHAR" />
+        <result column="model_size" property="model_size" jdbcType="VARCHAR" />
+        <result column="out_price" property="out_price" jdbcType="DOUBLE" />
+        <result column="along_to" property="along_to" jdbcType="VARCHAR" />
+        <result column="out_number" property="out_number" jdbcType="INTEGER" />
+        <result column="out_unit" property="out_unit" jdbcType="VARCHAR" />
+        <result column="client" property="client" jdbcType="VARCHAR" />
+        <result column="money" property="money" jdbcType="DOUBLE" />
+        <result column="profit" property="profit" jdbcType="DOUBLE" />
+        <result column="out_des" property="out_des" jdbcType="VARCHAR" />
+        <result column="time" property="time" jdbcType="VARCHAR" />
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id, oldid, username, out_name, out_brand, model_size, out_price, along_to, out_number, out_unit, client,money,profit,out_des, time
+    </sql>
+
+    <!--根据主键查询一条用户数据 -->
+    <select id="selectById" resultMap="BaseResultMap"
+            parameterType="java.lang.Integer">
+        select
+        <include refid="Base_Column_List" />
+        from out_sale
+        where id = #{id,jdbcType=INTEGER}
+    </select>
+
+    <!--查询所有用户数据 -->
+    <select id="selectList" resultType="com.org.entity.OutSale">
+        select
+        <include refid="Base_Column_List" />
+        from out_sale
+    </select>
+    <!--根据主键删除一条用户数据 -->
+    <delete id="deleteById" parameterType="java.lang.Integer">
+        delete from out_sale
+        where id = #{id,jdbcType=INTEGER}
+    </delete>
+
+    <!--插入一条完整用户数据 -->
+    <insert id="insert" parameterType="com.org.entity.OutSale">
+        insert into out_sale (oldid, username, out_name, out_brand, model_size, out_price, along_to, out_number, out_unit,client, money, profit, out_des, time
+        )
+        values (#{oldid,jdbcType=INTEGER},
+        #{username,jdbcType=VARCHAR},
+        #{out_name,jdbcType=VARCHAR},
+        #{out_brand,jdbcType=VARCHAR},
+        #{model_size,jdbcType=VARCHAR},
+        #{out_price,jdbcType=DOUBLE},
+        #{along_to,jdbcType=VARCHAR},
+        #{out_number,jdbcType=INTEGER},
+        #{out_unit,jdbcType=VARCHAR},
+        #{client,jdbcType=VARCHAR},
+        #{money,jdbcType=DOUBLE},
+        #{profit,jdbcType=DOUBLE},
+        #{out_des,jdbcType=VARCHAR},
+        #{time,jdbcType=VARCHAR}
+        )
+    </insert>
+
+    <!--插入一条用户数据 ，可以不完整 -->
+    <insert id="insertOne" parameterType="com.org.entity.OutSale">
+        insert into out_sale
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <if test="oldid != null">
+                oldid,
+            </if>
+            <if test="out_name != null">
+                out_name,
+            </if>
+            <if test="username != null">
+                username,
+            </if>
+            <if test="out_brand != null">
+                out_brand,
+            </if>
+            <if test="model_size != null">
+                model_size,
+            </if>
+            <if test="out_price != null">
+                out_price,
+            </if>
+            <if test="along_to != null">
+                along_to,
+            </if>
+            <if test="out_number != null">
+                out_number,
+            </if>
+            <if test="out_unit != null">
+                out_unit,
+            </if>
+            <if test="client != null">
+                client,
+            </if>
+            <if test="money != null">
+                money,
+            </if>
+            <if test="profit != null">
+                profit,
+            </if>
+            <if test="out_des != null">
+                out_des,
+            </if>
+            <if test="time != null">
+                time
+            </if>
+        </trim>
+        <trim prefix="values (" suffix=")" suffixOverrides=",">
+            <if test="oldid != null">
+                #{oldid,jdbcType=INTEGER},
+            </if>
+            <if test="username != null">
+                #{username,jdbcType=VARCHAR},
+            </if>
+            <if test="out_name != null">
+                #{out_name,jdbcType=VARCHAR},
+            </if>
+            <if test="out_brand != null">
+                #{out_brand,jdbcType=VARCHAR},
+            </if>
+            <if test="model_size != null">
+                #{model_size,jdbcType=VARCHAR},
+            </if>
+            <if test="out_price != null">
+                #{out_price,jdbcType=DOUBLE},
+            </if>
+            <if test="along_to != null">
+                #{along_to,jdbcType=VARCHAR},
+            </if>
+            <if test="out_number != null">
+                #{out_number,jdbcType=INTEGER},
+            </if>
+            <if test="out_unit != null">
+                #{out_unit,jdbcType=VARCHAR},
+            </if>
+            <if test="client != null">
+                #{client,jdbcType=VARCHAR},
+            </if>
+            <if test="money != null">
+                #{money,jdbcType=VARCHAR},
+            </if>
+            <if test="profit != null">
+                #{profit,jdbcType=VARCHAR},
+            </if>
+            <if test="out_des != null">
+                #{out_des,jdbcType=VARCHAR},
+            </if>
+            <if test="time != null">
+                #{time,jdbcType=VARCHAR}
+            </if>
+        </trim>
+    </insert>
+
+    <!--根据主键更新一条用户数据，可以不完整 -->
+    <update id="updateById" parameterType="com.org.entity.OutSale">
+        update out_sale
+        <set>
+            <if test="oldid != null">
+                oldid = #{oldid,jdbcType=INTEGER},
+            </if>
+            <if test="username != null">
+                username = #{username,jdbcType=VARCHAR},
+            </if>
+            <if test="out_name != null">
+                out_name = #{out_name,jdbcType=VARCHAR},
+            </if>
+            <if test="out_brand != null">
+                out_brand = #{out_brand,jdbcType=VARCHAR},
+            </if>
+            <if test="model_size != null">
+                model_size = #{model_size,jdbcType=VARCHAR},
+            </if>
+            <if test="out_price != null">
+                out_price = #{out_price,jdbcType=DOUBLE},
+            </if>
+            <if test="along_to != null">
+                along_to = #{along_to,jdbcType=VARCHAR},
+            </if>
+            <if test="out_number != null">
+                out_number = #{out_number,jdbcType=INTEGER},
+            </if>
+            <if test="out_unit != null">
+                out_unit = #{out_unit,jdbcType=VARCHAR},
+            </if>
+            <if test="client != null">
+                client = #{client,jdbcType=VARCHAR},
+            </if>
+            <if test="money != null">
+                money = #{money,jdbcType=DOUBLE},
+            </if>
+            <if test="out_des != null">
+                out_des = #{out_des,jdbcType=VARCHAR},
+            </if>
+            <if test="time != null">
+                time = #{time,jdbcType=VARCHAR},
+            </if>
+        </set>
+        where id = #{id,jdbcType=INTEGER}
+    </update>
+
+</mapper>
